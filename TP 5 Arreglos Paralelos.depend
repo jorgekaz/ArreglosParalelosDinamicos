@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653699169 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyectos\tp 5 arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656086136 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\proyectos\tp 5 arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
